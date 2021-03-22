@@ -6,3 +6,5 @@ This python 'gui2.py' script annotates context of the keyword entered by the use
 * Select the pdf file.
 * Click on get file
 * You will find a copy of annotated file in the working folder.
+
+* You can try already wrapped .exe file.
